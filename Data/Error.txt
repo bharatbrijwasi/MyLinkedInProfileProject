@@ -1,0 +1,12 @@
+Sorry, there was a problem retrieving your data archive.
+
+We weren't able to download the following files:
+
+Job Application Saved Answers.csv
+
+To try again, just request a new archive by visiting your Settings page.
+
+Thanks for being a member.
+
+-The LinkedIn Team 
+

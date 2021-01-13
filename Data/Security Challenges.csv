@@ -1,0 +1,4 @@
+Challenge Date,IP Address,User Agent,Country,Challenge Type
+Tue Jul 28 04:43:36 UTC 2020,2401:4900:4179:3f61:b55c:eec3:3826:30ce,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36",India,EMAIL_PIN_CHALLENGE
+Sat Aug 08 08:28:36 UTC 2020,2409:4053:814:a82:8719:31fa:6483:10a8,"Mozilla/5.0 (Linux; Android 8.1.0; Moto G (5S)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36",India,CAPTCHA_CHALLENGE
+Wed Mar 18 16:49:01 UTC 2020,2402:8100:2042:d48d:5a87:5af9:59d:7818,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.425 motorola_Moto G (5S):android_8.1.0,India,EMAIL_PIN_CHALLENGE

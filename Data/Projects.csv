@@ -1,0 +1,4 @@
+Title,Description,Url,Started On,Finished On
+Sentiment-Analysis-of-Demonetization-Tweets,"Analyze the users Sentiment especially I focused on Tweets Polarity whether a tweet is positive, negative and it is zero(felling) by given numerical value to the words.",https://github.com/bharatbrijwasi/Sentiment-Analysis-of-Demonetization-Tweets,Jun 2018,Sep 2018
+Population Forecast,Analyze the Indian population data and predict the growth rate and also the future population of India up to 2050. and build a dashboard to show the analysis and Prediction.,https://glau.shinyapps.io/Pop_prediction/?_ga=2.40654690.1992200186.1595051415-94668805.1587726215,Mar 2019,Apr 2019
+Covid-19 Data Visualisation Dashboard,This Coronavirus dashboard provides an overview of the 2019 Novel Coronavirus COVID-19 (2019-nCoV) epidemic. This dashboard is built with R using the Rmakrdown framework.,https://bharatbrijwasi.github.io/covid-19/,Apr 2020,
