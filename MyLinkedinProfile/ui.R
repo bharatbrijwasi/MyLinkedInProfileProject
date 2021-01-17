@@ -18,6 +18,8 @@ ui <- dashboardPage(skin =  "purple",
                                 .content-wrapper, .right-side {
                                 background-color: #ffffff;
                                 }'
-                                )))
+                                ))),
+        
+        infoBox(nrow(read.csv("/cloud/project/Data/Connections.csv", skip = 5)), "Total Connections", icon = icon('dashboard'), color = "green", width = 8)
     )
 )
